@@ -24,8 +24,4 @@ public class JobTitle {
 
 	@Column(name = "title")
 	private String title;
-	/*
-	 * @Entity => jparepository i extend ettiğimizde ilk kısma entity classını belirtmek
-	 * için kullanılır ikinci kısımda primary key in ne türde olduğunu yazarız
-	 */
 }
